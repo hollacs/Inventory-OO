@@ -2,6 +2,7 @@
 預設背包的空間
 - `inv_default_size 14`
 
+
 ## 管理員/伺服器指令
 給予玩家道具
 - `inv_give 玩家名 道具的類別名稱 給予的數量`
@@ -15,14 +16,15 @@
 打開背包選單
 - `inv_open`
 
----
 
 ## 安裝需求
 - 必須先安裝 [OO 模塊](https://github.com/hollacs/oo_amxx/releases/latest)
 - AMXX 1.9 或以上
 
+
 ## 展示影片
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ip7Ihi4PHY8/0.jpg)](http://www.youtube.com/watch?v=Ip7Ihi4PHY8 "背包系統 Inventory AMXX")
+
 
 ## plugins.ini order
 ```
