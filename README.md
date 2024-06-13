@@ -46,3 +46,7 @@ kill_random_item.amxx ; 殺人獲得隨機道具 及顯示 獲得 和 丟棄操�
 inventory_save.amxx ; 以 steamid 儲存背包的道具 (nvault)
 ;test_game_item_and_inventory.sma ; 用以測試功能有沒有運作正常
 ```
+
+---
+
+post link: [https://bbs.mychat.to/reads.php?tid=1080951](https://bbs.mychat.to/reads.php?tid=1080951)
