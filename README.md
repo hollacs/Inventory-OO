@@ -47,6 +47,8 @@ inventory_save.amxx ; Save inventory items by SteamID (nvault)
 ;test_game_item_and_inventory.sma ; Used for testing functionality
 ```
 
+## API Usage
+
 ### Example 1: Adding a New Game Item (oo_item_shit.sma)
 
 ```sourcepawn
