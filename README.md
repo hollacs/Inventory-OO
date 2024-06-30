@@ -1,5 +1,3 @@
-Certainly! Here's the translation of the provided information into English:
-
 ## CVAR
 Default inventory size:
 - `inv_default_size 14`
